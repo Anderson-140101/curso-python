@@ -12,7 +12,7 @@ Você pode visualizar o projeto em execução aqui:
 * **GitHub**: Controle de versão e hospedagem do código.
 
 ## 📖 Sobre o Projeto
-Este aplicativo é uma ferramenta interativa criada durante o meu aprendizado em Análise e Desenvolvimento de Sistemas. O objetivo é oferecer uma interface amigável para quem está começando a dar os primeiros passos no mundo da programação.
+Este aplicativo é uma ferramenta interativa criada durante o meu aprendizado em Análise e Desenvolvimento de Sistemas. O objetivo é oferecer uma interface amigável para quem está começando a dar os primeiros passos no mundo da programação.Esta atualização eleva o aplicativo educacional transformando-o de um "Curso Básico" para uma "Formação Python Completa". A navegação foi dividida em Módulos, e foi incluso todo o conteúdo avançado solicitado pelo usuário cobrindo as 4 maiores áreas de atuação do mercado (Automação, Dados, IA e Web). As dependências necessárias (Pandas/Numpy) também foram documentadas.
 
 ---
 Mantenha a curiosidade e bons estudos!
